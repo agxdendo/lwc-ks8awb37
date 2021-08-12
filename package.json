@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/agxdendo.lwc-ks8awb37",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve dTqPtdfzkJwMUJG5roEm --open"
+  }
+}
